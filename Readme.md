@@ -11,8 +11,9 @@
 # How to convert numeric price into word representation using the XtraReports Suite
 
 
-If you're an owner of the <a href="https://www.devexpress.com/Products/NET/Document-Server/pricing.xml">Universal or the Document Server subscriptions</a>, you can use our built-in <a href="https://documentation.devexpress.com/#DocumentServer/clsDevExpressDocsTextNumberInWordstopic">NumberInWords</a> class to achieve this goal.
+In this example, we handle a calculated field's [GetValue](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.UI.CalculatedField.GetValue?v=20.2) event (in a generic case, you can do that in a report control's [BeforePrint](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.UI.XRControl.BeforePrint?v=20.2) or [PrintOnPage](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.UI.XRControl.PrintOnPage) event handler) and convert numbers to words from code by associating a number with a word taken from a custom word array.
 
-<br/>
+If you're an owner of the [Universal](https://www.devexpress.com/subscriptions/universal.xml) or [Office File API subscription](https://www.devexpress.com/products/net/office-file-api/), you can use our built-in [NumberInWords](https://documentation.devexpress.com/#DocumentServer/clsDevExpressDocsTextNumberInWordstopic) class to convert numbers to words.
+  
 
 
