@@ -130,7 +130,7 @@
             Me.Title.BorderColor = System.Drawing.Color.Black
             Me.Title.Borders = DevExpress.XtraPrinting.BorderSide.None
             Me.Title.BorderWidth = 1F
-            Me.Title.Font = New System.Drawing.Font("Times New Roman", 20F, System.Drawing.FontStyle.Bold)
+            Me.Title.Font = New DevExpress.Drawing.DXFont("Times New Roman", 20F, DevExpress.Drawing.DXFontStyle.Bold)
             Me.Title.ForeColor = System.Drawing.Color.Maroon
             Me.Title.Name = "Title"
             ' 
@@ -140,7 +140,7 @@
             Me.FieldCaption.BorderColor = System.Drawing.Color.Black
             Me.FieldCaption.Borders = DevExpress.XtraPrinting.BorderSide.None
             Me.FieldCaption.BorderWidth = 1F
-            Me.FieldCaption.Font = New System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold)
+            Me.FieldCaption.Font = New DevExpress.Drawing.DXFont("Arial", 10F, DevExpress.Drawing.DXFontStyle.Bold)
             Me.FieldCaption.ForeColor = System.Drawing.Color.Maroon
             Me.FieldCaption.Name = "FieldCaption"
             ' 
@@ -150,7 +150,7 @@
             Me.PageInfo.BorderColor = System.Drawing.Color.Black
             Me.PageInfo.Borders = DevExpress.XtraPrinting.BorderSide.None
             Me.PageInfo.BorderWidth = 1F
-            Me.PageInfo.Font = New System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold)
+            Me.PageInfo.Font = New DevExpress.Drawing.DXFont("Times New Roman", 10F, DevExpress.Drawing.DXFontStyle.Bold)
             Me.PageInfo.ForeColor = System.Drawing.Color.Black
             Me.PageInfo.Name = "PageInfo"
             ' 
@@ -160,7 +160,7 @@
             Me.DataField.BorderColor = System.Drawing.Color.Black
             Me.DataField.Borders = DevExpress.XtraPrinting.BorderSide.None
             Me.DataField.BorderWidth = 1F
-            Me.DataField.Font = New System.Drawing.Font("Times New Roman", 10F)
+            Me.DataField.Font = New DevExpress.Drawing.DXFont("Times New Roman", 10F)
             Me.DataField.ForeColor = System.Drawing.Color.Black
             Me.DataField.Name = "DataField"
             Me.DataField.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100F)
