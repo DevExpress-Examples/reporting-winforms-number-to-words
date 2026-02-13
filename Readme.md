@@ -29,7 +29,7 @@ If you're an owner of the [Universal](https://www.devexpress.com/subscriptions/u
 - [Aggregate Functions in Calculated Fields - Usage Example](https://github.com/DevExpress-Examples/reporting-aggregated-function-calculated-field)
 - [Reporting for WinForms - Implement a Custom Function for Use in a Query Expression](https://github.com/DevExpress-Examples/Reporting_how-to-use-a-custom-function-in-a-query-expression-t352441)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-number-to-words&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-number-to-words&~~~was_helpful=no)
 
